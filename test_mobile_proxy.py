@@ -5,8 +5,8 @@ import json
 proxy = {
     "host": "proxy.packetstream.io",
     "port": 31112,
-    "user": "ploetzeneder",
-    "password": "83G2cIcqPTV47Fd7",
+    "user": "xxx",
+    "password": "xxx",
     "scheme": "http"
 }
 proxy = json.dumps(proxy)
