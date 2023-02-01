@@ -1,0 +1,4 @@
+selenium_peacemaker==1.0.0
+selenium_profiles==2.2.5.1
+selenium_stealth==1.0.6
+undetected-chromedriver==3.2.1
