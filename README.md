@@ -8,7 +8,7 @@ Stealth emulate and automate Chrome using profiles, proxy and selenium.
 
 ## Example
 
-```
+```python
 import selenium_peacemaker as sp
 from time import sleep
 
